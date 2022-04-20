@@ -4,7 +4,7 @@ Only part of "OtegaruT" scripts
 # What's this
 The scripts in this repository are part of "OtegaruT" scripts.
 
-"OtegaruT" is Car Action game for Android
+"OtegaruT" is Car Action game for Android made with Unity
 (https://play.google.com/store/apps/details?id=com.ryuukunkoubou.touge)
 
 You can use these scripts under MIT License.

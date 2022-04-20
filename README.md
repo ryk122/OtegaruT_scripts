@@ -1,5 +1,5 @@
 # OtegaruT_scripts
-only part of "OtegaruT" scripts
+Only part of "OtegaruT" scripts
 
 # What's this
 The scripts in this repository are part of "OtegaruT" scripts.
@@ -9,4 +9,4 @@ The scripts in this repository are part of "OtegaruT" scripts.
 
 You can use these scripts under MIT License.
 
-If you want to obtain all of Unity project files, please contact me via twitter or game official discord.
+If you want to obtain all of Unity project files, please contact me on twitter or game official discord.
